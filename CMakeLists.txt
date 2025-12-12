@@ -9,5 +9,5 @@ add_executable(s_step2 src/step2_static.cpp)
 add_executable(s_step3 src/step3_vector.cpp)
 add_executable(s_step4 src/step4_class.cpp)
 add_executable(s_step5 src/step5_overload.cpp)
-
+add_executable(s_step6 src/step6_template.cpp)
 
